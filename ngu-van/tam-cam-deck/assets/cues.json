@@ -1,0 +1,50 @@
+[
+  {
+    "part": 0,
+    "label": "Mở đầu (hoàn cảnh Tấm)",
+    "start": 0.0,
+    "end": 11.82,
+    "firstWords": "Ngày xưa ngày xưa có một cô gái tên là Tấm",
+    "note": "Setup before the first mind-map box: Tấm is orphaned and overworked by the stepmother."
+  },
+  {
+    "part": 1,
+    "label": "Biến cố & Mất cá bống",
+    "start": 12.34,
+    "end": 36.22,
+    "firstWords": "Con gái bà ta cũng rất mưu mô, xảo quyệt",
+    "note": "Cám steals the catch; cá bống is kept then eaten; Bụt helps bury the bones."
+  },
+  {
+    "part": 2,
+    "label": "Thử thách & Trở thành Hoàng hậu",
+    "start": 36.72,
+    "end": 58.5,
+    "firstWords": "Năm đó, vua mở hội linh đình",
+    "note": "Festival, sorting beans, the lost shoe, Tấm becomes queen. Slide says 'nhặt thóc gạo'; narration says 'lựa đậu'."
+  },
+  {
+    "part": 3,
+    "label": "Chuỗi hóa thân không khuất phục",
+    "start": 58.62,
+    "end": 78.32,
+    "firstWords": "Đến giỗ cha, cô tự mình về quê làm cỗ",
+    "note": "Stepmother cuts the areca tree; vàng anh, xoan đào, khung cửi; Tấm returns from the thị fruit."
+  },
+  {
+    "part": 4,
+    "label": "Đoàn tụ & Trả giá",
+    "start": 78.32,
+    "end": 99.94,
+    "firstWords": "Nàng làm con nuôi của bà lão bán hàng nước",
+    "note": "The removed ad originally sat in the middle of this part (after 'người têm', before 'Khi Tấm bước ra')."
+  },
+  {
+    "part": 5,
+    "label": "Thông điệp / Ý nghĩa",
+    "start": null,
+    "end": null,
+    "firstWords": null,
+    "note": "No dedicated moral/conclusion is spoken. Slide bullets ('Ở hiền gặp lành', 'Kiên trì đấu tranh cho hạnh phúc') are not in the narration. The last two sentences are plot resolution (reunion + Cám's punishment) and stay in part 4."
+  }
+]
